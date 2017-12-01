@@ -1,3 +1,4 @@
 # OS
 - [Introduction](./What-is-OS.md)
-- [Multicore](./Multicore.md)
+- [Parallelism in Hardware](./Parallelism_in_Hardware.md)
+- [Parallelism in Software](./Parallelism_in_Software.md)
