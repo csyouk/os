@@ -62,5 +62,5 @@
 		- 더 많은 코어를 넣는 방식
 		- 클락수를 높이는 방식이 한계에 봉착하면서 이를 해결하기 위해 나타남
 
-- OS의 
+- OS의 컨셉과 기능 발전의 역사
 ![Migration-of-operating-system-concepts-and-features](./img/Migration-of-operating-system-concepts-and-features.png)
